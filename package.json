@@ -1,0 +1,28 @@
+{
+  "name": "ts-decorators",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/shkoda-hub/ts-decorators#readme",
+  "bugs": {
+    "url": "https://github.com/shkoda-hub/ts-decorators/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shkoda-hub/ts-decorators.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
